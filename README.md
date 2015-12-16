@@ -1,3 +1,5 @@
+## My online resume.
+
 ## Copyright & License
 
 Copyright (C) 2015 - Released under the MIT License.
