@@ -7,27 +7,27 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://snakeshawn.github.io/vitae
-author: Shawn Zhang
+url: http://me.xuzhang.work/vitae
+author: Xu Zhang
 
 # edit this section with your information
 # snakeshawn.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Shawn Zhang's Resume
-name: Shawn Zhang
-email: snakeshawnzhang</br>@gmail.com
-email_full: mailto:snakeshawnzhang@gmail.com
-website: snakeshawn.github.io
-website_full: https://snakeshawn.github.io
+title: Xu Zhang's Resume
+name: Xu Zhang
+email: xzhcn6@gmail.com
+email_full: mailto:xzhcn6@gmail.com
+website: me.xuzhang.work
+website_full: http://me.xuzhang.work
 github: snakeshawn
 twitter: Snake_Shawn
-tel: +852 5424 7356
-tel_full: tel:+852 54247356
+tel: +86 17600853112
+tel_full: tel:+86 17600853112
 google_maps: 'https://goo.gl/maps/tSuJfL5YZdo'
-address: AC3,City University of Hong Kong,Koowloon
+address: Internet Innovation Center, HaiDian District
 postcode: 
-city: Hong Kong
+city: Beijing
 country: China
 google_analytics: UA-69300817-1
 
